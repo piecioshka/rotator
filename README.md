@@ -1,10 +1,10 @@
 # rotator
 
-> Rotate testimonials
+:hammer: Rotate testimonials
 
-## Demo
+## Demo 🎉
 
-Click: https://piecioshka.github.io/rotator/
+<https://piecioshka.github.io/rotator/>
 
 ## Video
 
@@ -14,4 +14,3 @@ this project: https://www.youtube.com/watch?v=vivW6IZHrrw
 ## License
 
 [The MIT Licence](http://piecioshka.mit-license.org) @ 2017
-
