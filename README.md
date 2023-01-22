@@ -2,7 +2,7 @@
 
 :hammer: Rotate testimonials
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/rotator/>
 
