@@ -13,4 +13,4 @@ this project: https://www.youtube.com/watch?v=vivW6IZHrrw
 
 ## License
 
-[The MIT Licence](http://piecioshka.mit-license.org) @ 2017
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
